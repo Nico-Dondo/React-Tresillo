@@ -1,0 +1,30 @@
+.vistaProducto{
+    background-image: url(../../../assets/bateria.jpeg);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 80%;
+}
+ 
+
+.imgProducto{
+    opacity: 80%;
+    border: solid;
+    
+}
+
+.descripcionProducto{
+    color: antiquewhite;
+    font-size: x-large;
+}
+
+.precioProducto{
+    color:rgb(255, 255, 255);
+    font-size: xx-large;
+}
+
+.finalizar{
+    display: inline-flex;
+   font-size:x-large;
+   background-color: rgb(190, 190, 190);
+}

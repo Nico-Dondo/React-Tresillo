@@ -1,0 +1,11 @@
+Componentes Funcionales
+-Importar React (opcional)
+-Debe tener una funcion
+-La funcion debe retornar info y se debe exportar
+-La funcion debe empezar con mayuscula (siempre)
+
+-Componentes
+-Props
+-States
+-Ciclos de vida
+-Metodos del ciclo de vida

@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}    
+main{
+    
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+    align-items: center;
+    background-image: url(../../assets/aquiles-priester-drum-kit-2017-pic-by-arthur-galvao802-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 80%;
+
+}
+.fondo{
+     margin: 3rem;
+    border: 10px;
+    border-color: black;
+    
+}
+
+.tarjetaImagen{
+   position:relative;
+   border-radius: 20px;
+   width: 250px;
+   
+  
+}
+
+.boton{
+display: inline-block;
+font-size: 20px;
+margin-left: 40%;
+margin-bottom: 10%;
+}
+
+.tarjetaBateria {
+    height: 400px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: solid; color: black;
+  
+}
